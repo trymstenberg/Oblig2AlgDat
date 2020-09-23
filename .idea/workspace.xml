@@ -26,11 +26,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -50,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600803270063</updated>
-      <workItem from="1600803273273" duration="4560000" />
+      <workItem from="1600803273273" duration="3286000" />
     </task>
     <task id="LOCAL-00001" summary="Laget prosjekt for Oblig 2 Algoritmer og Datastrukturer Høst 2020 ved OsloMet">
       <created>1600805170202</created>
@@ -73,14 +72,7 @@
       <option name="project" value="LOCAL" />
       <updated>1600851952310</updated>
     </task>
-    <task id="LOCAL-00004" summary="Legger til main metode med test for DobbeltLenketListe klassen">
-      <created>1600852379822</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1600852379823</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,26 +82,21 @@
     <MESSAGE value="Laget prosjekt for Oblig 2 Algoritmer og Datastrukturer Høst 2020 ved OsloMet" />
     <MESSAGE value="Lagt til filer fra oppgavemappe fra Canvas" />
     <MESSAGE value="Setter opp ny klasse med main som forestlått i oppgaven for testing av runtime error" />
-    <MESSAGE value="Legger til main metode med test for DobbeltLenketListe klassen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Legger til main metode med test for DobbeltLenketListe klassen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setter opp ny klasse med main som forestlått i oppgaven for testing av runtime error" />
   </component>
   <component name="WindowStateProjectService">
     <state x="480" y="261" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600851724898">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
     <state x="480" y="261" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.698@0.23.1280.698" timestamp="1600851724898" />
-    <state x="226" y="23" key="CommitChangelistDialog2" timestamp="1600852379595">
+    <state x="215" y="23" key="CommitChangelistDialog2" timestamp="1600851952096">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
-    <state x="226" y="23" key="CommitChangelistDialog2/0.23.1280.698@0.23.1280.698" timestamp="1600852379595" />
-    <state x="133" y="23" key="SettingsEditor" timestamp="1600861777675">
+    <state x="215" y="23" key="CommitChangelistDialog2/0.23.1280.698@0.23.1280.698" timestamp="1600851952096" />
+    <state x="231" y="105" key="Vcs.Push.Dialog.v2" timestamp="1600851954012">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
-    <state x="133" y="23" key="SettingsEditor/0.23.1280.698@0.23.1280.698" timestamp="1600861777675" />
-    <state x="231" y="105" key="Vcs.Push.Dialog.v2" timestamp="1600852381477">
-      <screen x="0" y="23" width="1280" height="698" />
-    </state>
-    <state x="231" y="105" key="Vcs.Push.Dialog.v2/0.23.1280.698@0.23.1280.698" timestamp="1600852381477" />
+    <state x="231" y="105" key="Vcs.Push.Dialog.v2/0.23.1280.698@0.23.1280.698" timestamp="1600851954012" />
     <state x="415" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600851109133">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
