@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c2f0f06-57ca-476a-9143-f50cf4c30d04" name="Default Changelist" comment="" />
+    <list default="true" id="9c2f0f06-57ca-476a-9143-f50cf4c30d04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600803270063</updated>
-      <workItem from="1600803273273" duration="3045000" />
+      <workItem from="1600803273273" duration="3286000" />
     </task>
     <task id="LOCAL-00001" summary="Laget prosjekt for Oblig 2 Algoritmer og Datastrukturer Høst 2020 ved OsloMet">
       <created>1600805170202</created>
@@ -63,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600851263769</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Setter opp ny klasse med main som forestlått i oppgaven for testing av runtime error">
+      <created>1600851952310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600851952310</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,21 +81,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Laget prosjekt for Oblig 2 Algoritmer og Datastrukturer Høst 2020 ved OsloMet" />
     <MESSAGE value="Lagt til filer fra oppgavemappe fra Canvas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lagt til filer fra oppgavemappe fra Canvas" />
+    <MESSAGE value="Setter opp ny klasse med main som forestlått i oppgaven for testing av runtime error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setter opp ny klasse med main som forestlått i oppgaven for testing av runtime error" />
   </component>
   <component name="WindowStateProjectService">
     <state x="480" y="261" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600851724898">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
     <state x="480" y="261" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.698@0.23.1280.698" timestamp="1600851724898" />
-    <state x="215" y="23" key="CommitChangelistDialog2" timestamp="1600851263505">
+    <state x="215" y="23" key="CommitChangelistDialog2" timestamp="1600851952096">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
-    <state x="215" y="23" key="CommitChangelistDialog2/0.23.1280.698@0.23.1280.698" timestamp="1600851263505" />
-    <state x="231" y="105" key="Vcs.Push.Dialog.v2" timestamp="1600851758489">
+    <state x="215" y="23" key="CommitChangelistDialog2/0.23.1280.698@0.23.1280.698" timestamp="1600851952096" />
+    <state x="231" y="105" key="Vcs.Push.Dialog.v2" timestamp="1600851954012">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
-    <state x="231" y="105" key="Vcs.Push.Dialog.v2/0.23.1280.698@0.23.1280.698" timestamp="1600851758489" />
+    <state x="231" y="105" key="Vcs.Push.Dialog.v2/0.23.1280.698@0.23.1280.698" timestamp="1600851954012" />
     <state x="415" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600851109133">
       <screen x="0" y="23" width="1280" height="698" />
     </state>
